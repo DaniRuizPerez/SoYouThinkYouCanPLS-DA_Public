@@ -1,0 +1,11 @@
+Species1,Specificity1,Species2,Specificity2,Species3,Specificity3,Species4,Specificity4,Species5,Specificity5
+L. crispatus,0.952,L. gasseri,0.923,L. iners,0.778,Prevotella,0.783,L. jensenii,0.915
+Lactobacillales_6,0.944,Lactobacillales_1,0.71,Lactobacillales_2,0.724,Dialister,0.75,Lactobacillales_5,0.456
+Clostridium,0.114,L. vaginalis,0.369,Lactobacillales_5,0.293,Atopobium,0.678,Lactobacillales_7,0.243
+Lactobacillus_2,0.099,Anaerococcus,0.244,Finegoldia,0.036,Eggerthella,0.664,Propionibacterium,0.203
+Staphylococcus,0.083,Peptoniphilus,0.214,Staphylococcus,0.035,Sneathia,0.662,Streptococcus,0.122
+L. vaginalis,0.077,Lactobacillus_3,0.155,Ureaplasma,0.034,Parvimonas,0.659,Enhydrobacter,0.087
+Lactobacillales_5,0.07,Gardnerella,0.153,Corynebacterium,0.032,Ruminococcaceae_3,0.655,Corynebacterium,0.07
+L. iners,0.06,Finegoldia,0.149,Aerococcus,0.031,Megasphaera,0.655,Acinetobacter,0.056
+Lactobacillales_2,0.033,Bifidobacterium,0.144,Lactobacillales_7,0.026,Prevotellaceae_2,0.601,Finegoldia,0.05
+Exiguobacterium,0.031,Ureaplasma,0.114,Lactobacillus_2,0.025,Mobiluncus,0.504,Skermanella,0.048
